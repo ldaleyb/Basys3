@@ -1,0 +1,7 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/ECE 480/Lab 8/lab_8.sim/sim_1/impl/timing/xsim/graphics_video_example_time_impl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ball
+INFO: [VRFC 10-311] analyzing module clk_wiz_0
+INFO: [VRFC 10-311] analyzing module clk_wiz_0_clk_wiz_0_clk_wiz
+INFO: [VRFC 10-311] analyzing module graphics_video_example
+INFO: [VRFC 10-311] analyzing module vga_sync
+INFO: [VRFC 10-311] analyzing module glbl

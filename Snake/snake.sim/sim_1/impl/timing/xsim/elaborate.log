@@ -1,0 +1,34 @@
+Vivado Simulator 2020.2
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2020.2/bin/unwrapped/win64.o/xelab.exe -wto 8ad6a03013204933b49260a44f3a645a --incr --debug typical --relax --mt 2 --maxdelay -L xil_defaultlib -L simprims_ver -L secureip --snapshot graphics_video_example_time_impl -transport_int_delays -pulse_r 0 -pulse_int_r 0 -pulse_e 0 -pulse_int_e 0 xil_defaultlib.graphics_video_example xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+INFO: [XSIM 43-3451] SDF backannotation process started with SDF file "graphics_video_example_time_impl.sdf", for root module "graphics_video_example".
+INFO: [XSIM 43-3452] SDF backannotation was successful for SDF file "graphics_video_example_time_impl.sdf", for root module "graphics_video_example".
+Time Resolution for simulation is 1ps
+Compiling module simprims_ver.IBUF
+Compiling module simprims_ver.OBUF
+Compiling module simprims_ver.LUT5
+Compiling module simprims_ver.x_lut3_mux8
+Compiling module simprims_ver.LUT3
+Compiling module simprims_ver.LUT6
+Compiling module simprims_ver.FDRE_default
+Compiling module simprims_ver.CARRY4
+Compiling module simprims_ver.x_lut2_mux4
+Compiling module simprims_ver.LUT2
+Compiling module simprims_ver.LUT4
+Compiling module xil_defaultlib.ball
+Compiling module simprims_ver.BUFG
+Compiling module simprims_ver.MMCME2_ADV(CLKFBOUT_MULT_F=10.0,...
+Compiling module xil_defaultlib.clk_wiz_0_clk_wiz_0_clk_wiz
+Compiling module xil_defaultlib.clk_wiz_0
+Compiling module simprims_ver.x_lut1_mux2
+Compiling module simprims_ver.LUT1(INIT=2'b01)
+Compiling module xil_defaultlib.vga_sync
+Compiling module xil_defaultlib.graphics_video_example
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot graphics_video_example_time_impl
